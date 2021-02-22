@@ -27,3 +27,6 @@ six>=1.14
 joblib
 memoized-property
 termcolor
+
+git+https://github.com/mizzle-toe/challengeproject
+git+https://github.com/jjesteban/test
